@@ -46,7 +46,7 @@ const AboutSection = () => {
       <div className="w-full md:w-2/3 text-center md:text-left">
         <h2 className="text-3xl font-bold mb-4">About Me</h2>
         <p className="text-gray-300 leading-relaxed">
-          Hello! I'm Abigael Karushi, a passionate web developer specializing in WordPress, Webflow, and React. I have a keen interest in blockchain technology and enjoy working on innovative projects that make an impact. Welcome to my portfolio!
+          Hello! I'm Abigael Karushi, a Kenyan, a lady, a passionate web developer specializing in WordPress, Webflow, and React. I have a keen interest in blockchain technology and enjoy working on innovative projects that make an impact. Welcome to my portfolio!
         </p>
       </div>
     </section>
